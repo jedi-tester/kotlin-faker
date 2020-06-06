@@ -1,0 +1,18 @@
+title: kotlin-faker
+description: kotlin-faker docs
+baseurl: "/kotlin-faker"
+url: "https://serpro69.github.io"
+
+permalink: pretty
+
+remote_theme: pmarsceill/just-the-docs
+
+color_scheme: "dark"
+
+search_enabled: true
+
+heading_anchors: true
+
+aux_links:
+  "kotlin-faker on GitHub":
+    - "//github.com/serpro69/kotlin-faker"
